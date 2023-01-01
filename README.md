@@ -12,6 +12,11 @@ These instructions will get you a copy of the project up and running on your loc
   .ECharts for React
   .json-server
 
+## Images of Porject
+
+![Scatter Plot](/projectScreenShot/1screenshot.jpg)
+![Bar Plot](/projectScreenShot/2screenshot.jpg)
+
 ## Installing
 
 .Clone the repository:
